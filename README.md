@@ -5,3 +5,5 @@ pip install -r requirements.txt
 # Run
 python tictactoe.py
 and navigate to http://localhost:5000
+# Min-max
+Inside game.py is my implementation of the minimax algorithm.
